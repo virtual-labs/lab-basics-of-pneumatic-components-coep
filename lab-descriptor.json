@@ -3,27 +3,69 @@
     "name": "Electrical Engineering",
     "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
   },
-  "lab": "",
+  "lab": "Basics of Pneumatic Components",
   "phase": 3,
   "collegeName": "coep",
-  "baseUrl": ".vlabs.ac.in",
-  "introduction": "Welcome to the ",
+  "baseUrl": "pc-coep.vlabs.ac.in",
+  "introduction": "Welcome to the Basics of Pneumatic Components developed at CoEP. The main purpose of this laboratory is to make the students aware of the pneumatic system components. The pneumatic system has been widely used in the manufacturing industry. So engineering students must get exposure to pneumatic systems. So we are planning to develop a pneumatic simulator where all pneumatic components will be available to students. We will be referring to standards for building pneumatic symbols. Students must be able to design the pneumatic set up for practical application.",
   "experiments": [
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Select pneumatic cylinder for given load and speed requirement",
+      "short-name": "pneumatic-cylinder-load-speed",
+      "repo": "https://github.com/virtual-labs/exp-pneumatic-cylinder-load-speed-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Develop pneumatic circuit to operate direct single acting cylinder",
+      "short-name": "direct-single-acting-cylinder",
+      "repo": "https://github.com/virtual-labs/exp-direct-single-acting-cylinder-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Develop pneumatic circuit to operate direct double acting cylinder",
+      "short-name": "direct-double-acting-cylinder",
+      "repo": "https://github.com/virtual-labs/exp-direct-double-acting-cylinder-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Develop pneumatic circuit to operate indirect single acting cylinder",
+      "short-name": "indirect-single-acting-cylinder",
+      "repo": "https://github.com/virtual-labs/exp-indirect-single-acting-cylinder-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Develop pneumatic circuit to operate indirect double acting cylinder",
+      "short-name": "indirect-double-acting-cylinder",
+      "repo": "https://github.com/virtual-labs/exp-indirect-double-acting-cylinder-coep",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "Develop pneumatic circuit to transfer block from a magazine",
+      "short-name": "pneumatic-circuit",
+      "repo": "https://github.com/virtual-labs/exp-pneumatic-circuit-coep",
       "tag": "v1.0.0",
       "deploy": true
     }
   ],
   "targetAudience": {
-    "UG": ["B. Tech./ B.E in "],
-    "PG": ["MS/Ph. D. Beginners in "]
+    "UG": ["B. Tech./ B.E in Instrumentation and Control Engineering, Chemical, Mechatronics, Mechanical Engineering branches"],
+    "PG": ["MS/Ph. D. Beginners in Process Instrumentation, Mechatronics, Mechanical (Design) fluid power, and Chemical Engineering."]
   },
-  "objective": "",
+  "objective": "1. To study single-acting and double-acting cylinder and direction control valve. <br/> 2. To select the proper cylinder and direction control valve.<br/>4. To build a pneumatic circuit.<br/>4. To understand the working of the control valve.",
   "courseAlignment": {
     "description": "The lab contents are chosen such that it covers the syllabi of the ^^ course of various universities to considerable extent.",
-    "universities": ["^^"]
-  },
+    "universities": ["Shivaji University, Kolhapur, Degree Course Instrumentation",
+"University of Pune, Degree course, Instrumentation & Control Engineering",
+"National Institute of Technology Tiruchirappalli, Degree course Instrumentation & Control",
+"Gujarat Technological University, Ahmedabad, Gujarat, Instrumentation & Control",
+"Thapar Institute of Engineering and Technology, B.E. (Mechatronics Engineering)",
+"Rajasthan Technical University, B. Tech Program in Mechatronics Engineering",
+"Manipal Academy of Higher Education, B. Tech in Mechatronics",
+"U. P. Technical University, Lucknow, B. Tech Manufacturing Technology"]
+  }
 }
