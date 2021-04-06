@@ -53,19 +53,78 @@
     }
   ],
   "targetAudience": {
-    "UG": ["B. Tech./ B.E in Instrumentation and Control Engineering, Chemical, Mechatronics, Mechanical Engineering branches"],
-    "PG": ["MS/Ph. D. Beginners in Process Instrumentation, Mechatronics, Mechanical (Design) fluid power, and Chemical Engineering."]
+    "UG": [
+      "B. Tech./ B.E in Instrumentation and Control Engineering, Chemical, Mechatronics, Mechanical Engineering branches"
+    ],
+    "PG": [
+      "MS/Ph. D. Beginners in Process Instrumentation, Mechatronics, Mechanical (Design) fluid power, and Chemical Engineering."
+    ]
   },
   "objective": "1. To study single-acting and double-acting cylinder and direction control valve. <br/> 2. To select the proper cylinder and direction control valve.<br/>4. To build a pneumatic circuit.<br/>4. To understand the working of the control valve.",
   "courseAlignment": {
     "description": "The lab contents are chosen such that it covers the syllabi of the ^^ course of various universities to considerable extent.",
-    "universities": ["Shivaji University, Kolhapur, Degree Course Instrumentation",
-"University of Pune, Degree course, Instrumentation & Control Engineering",
-"National Institute of Technology Tiruchirappalli, Degree course Instrumentation & Control",
-"Gujarat Technological University, Ahmedabad, Gujarat, Instrumentation & Control",
-"Thapar Institute of Engineering and Technology, B.E. (Mechatronics Engineering)",
-"Rajasthan Technical University, B. Tech Program in Mechatronics Engineering",
-"Manipal Academy of Higher Education, B. Tech in Mechatronics",
-"U. P. Technical University, Lucknow, B. Tech Manufacturing Technology"]
-  }
+    "universities": [
+      "Shivaji University, Kolhapur, Degree Course Instrumentation",
+      "University of Pune, Degree course, Instrumentation & Control Engineering",
+      "National Institute of Technology Tiruchirappalli, Degree course Instrumentation & Control",
+      "Gujarat Technological University, Ahmedabad, Gujarat, Instrumentation & Control",
+      "Thapar Institute of Engineering and Technology, B.E. (Mechatronics Engineering)",
+      "Rajasthan Technical University, B. Tech Program in Mechatronics Engineering",
+      "Manipal Academy of Higher Education, B. Tech in Mechatronics",
+      "U. P. Technical University, Lucknow, B. Tech Manufacturing Technology"
+    ]
+  },
+  "version": "v1.0.0",
+  "exp_name": "Develop pneumatic circuit to transfer block from a magazine",
+  "exp_short_name": "pneumatic-circuit",
+  "production": true,
+  "current_item": {
+    "item": "feedback",
+    "target": "feedback.html",
+    "label": "Feedback"
+  },
+  "menu": [
+    {
+      "item": "aim",
+      "target": "index.html",
+      "source": "aim.md",
+      "label": "Aim"
+    },
+    {
+      "item": "theory",
+      "target": "theory.html",
+      "source": "theory.md",
+      "label": "Theory"
+    },
+    {
+      "item": "pretest",
+      "target": "pretest.html",
+      "source": "pretest.js",
+      "label": "Pretest"
+    },
+    {
+      "item": "procedure",
+      "target": "procedure.html",
+      "source": "procedure.md",
+      "label": "Procedure"
+    },
+    {
+      "item": "simulation",
+      "target": "simulation.html",
+      "label": "Simulation"
+    },
+    {
+      "item": "posttest",
+      "target": "posttest.html",
+      "source": "posttest.js",
+      "label": "Posttest"
+    },
+    {
+      "item": "references",
+      "target": "references.html",
+      "source": "references.md",
+      "label": "References"
+    },
+    { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
+  ]
 }
