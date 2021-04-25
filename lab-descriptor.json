@@ -13,42 +13,42 @@
       "name": "Select pneumatic cylinder for given load and speed requirement",
       "short-name": "pneumatic-cylinder-load-speed",
       "repo": "https://github.com/virtual-labs/exp-pneumatic-cylinder-load-speed-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Develop pneumatic circuit to operate direct single acting cylinder",
       "short-name": "direct-single-acting-cylinder",
       "repo": "https://github.com/virtual-labs/exp-direct-single-acting-cylinder-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Develop pneumatic circuit to operate direct double acting cylinder",
       "short-name": "direct-double-acting-cylinder",
       "repo": "https://github.com/virtual-labs/exp-direct-double-acting-cylinder-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Develop pneumatic circuit to operate indirect single acting cylinder",
       "short-name": "indirect-single-acting-cylinder",
       "repo": "https://github.com/virtual-labs/exp-indirect-single-acting-cylinder-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Develop pneumatic circuit to operate indirect double acting cylinder",
       "short-name": "indirect-double-acting-cylinder",
       "repo": "https://github.com/virtual-labs/exp-indirect-double-acting-cylinder-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Develop pneumatic circuit to transfer block from a magazine",
       "short-name": "pneumatic-circuit",
       "repo": "https://github.com/virtual-labs/exp-pneumatic-circuit-coep",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     }
   ],
