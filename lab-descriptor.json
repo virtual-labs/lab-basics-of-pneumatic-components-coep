@@ -74,7 +74,7 @@
       "U. P. Technical University, Lucknow, B. Tech Manufacturing Technology"
     ]
   },
-  "version": "v1.3.0",
+  "version": "v1.4.0",
   "exp_name": "Develop pneumatic circuit to transfer block from a magazine",
   "exp_short_name": "pneumatic-circuit",
   "production": true,
