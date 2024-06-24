@@ -7,7 +7,7 @@
   "lab": "Basics of Pneumatic Components",
   "lab_display_name": "Basics of Pneumatic Components",
   "phase": 3,
-  "collegeName": "coep",
+  "collegeName": "COEP",
   "baseUrl": "pc-coep.vlabs.ac.in",
   "introduction": "Welcome to the Basics of Pneumatic Components developed at CoEP. The main purpose of this laboratory is to make the students aware of the pneumatic system components. The pneumatic system has been widely used in the manufacturing industry. So engineering students must get exposure to pneumatic systems. So we are planning to develop a pneumatic simulator where all pneumatic components will be available to students. We will be referring to standards for building pneumatic symbols. Students must be able to design the pneumatic set up for practical application.",
   "experiments": [
@@ -127,6 +127,10 @@
       "source": "references.md",
       "label": "References"
     },
-    { "item": "feedback", "target": "feedback.html", "label": "Feedback" }
+    {
+      "item": "feedback",
+      "target": "feedback.html",
+      "label": "Feedback"
+    }
   ]
 }
