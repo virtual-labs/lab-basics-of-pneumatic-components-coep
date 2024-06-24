@@ -1,9 +1,11 @@
 {
   "broadArea": {
     "name": "Electrical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-electrical-engineering",
+    "code": "EE"
   },
   "lab": "Basics of Pneumatic Components",
+  "lab_display_name": "Basics of Pneumatic Components",
   "phase": 3,
   "collegeName": "coep",
   "baseUrl": "pc-coep.vlabs.ac.in",
